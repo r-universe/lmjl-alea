@@ -2,5 +2,9 @@
   {
     "package": "flipr",
     "oncran": true
+  },
+  {
+    "package": "squat",
+    "oncran": true
   }
 ]
