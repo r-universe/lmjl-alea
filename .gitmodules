@@ -8,6 +8,11 @@
 	url = https://github.com/lmjl-alea/flipr
 	shallow = true
 	registered = true
+[submodule "rgeomstats"]
+	path = rgeomstats
+	url = https://github.com/lmjl-alea/rgeomstats
+	shallow = true
+	registered = true
 [submodule "squat"]
 	path = squat
 	url = https://github.com/lmjl-alea/squat

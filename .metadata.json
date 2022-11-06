@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "rgeomstats",
+    "oncran": true
+  },
+  {
     "package": "squat",
     "oncran": true
   }
