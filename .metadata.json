@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "rgudhi",
+    "oncran": true
+  },
+  {
     "package": "squat",
     "oncran": true
   }
