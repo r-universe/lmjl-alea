@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rgeomstats"]
-	path = rgeomstats
-	url = https://github.com/lmjl-alea/rgeomstats
-	shallow = true
-	registered = true
 [submodule "flipr"]
 	path = flipr
 	url = https://github.com/lmjl-alea/flipr
 	shallow = true
 	registered = true
-[submodule "squat"]
-	path = squat
-	url = https://github.com/lmjl-alea/squat
+[submodule "rgeomstats"]
+	path = rgeomstats
+	url = https://github.com/lmjl-alea/rgeomstats
 	shallow = true
 	registered = true
 [submodule "rgudhi"]
 	path = rgudhi
 	url = https://github.com/lmjl-alea/rgudhi
+	shallow = true
+	registered = true
+[submodule "squat"]
+	path = squat
+	url = https://github.com/lmjl-alea/squat
 	shallow = true
 	registered = true
