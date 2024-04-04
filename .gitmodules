@@ -8,6 +8,9 @@
 [submodule "flipr"]
 	path = flipr
 	url = https://github.com/lmjl-alea/flipr
+[submodule "midi"]
+	path = midi
+	url = https://github.com/lmjl-alea/midi
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/lmjl-alea/rgeomstats
