@@ -5,9 +5,6 @@
 [submodule "distops"]
 	path = distops
 	url = https://github.com/lmjl-alea/distops
-[submodule "flipr"]
-	path = flipr
-	url = https://github.com/lmjl-alea/flipr
 [submodule "midi"]
 	path = midi
 	url = https://github.com/lmjl-alea/midi
