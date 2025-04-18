@@ -11,6 +11,3 @@
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/lmjl-alea/rgeomstats
-[submodule "squat"]
-	path = squat
-	url = https://github.com/lmjl-alea/squat
